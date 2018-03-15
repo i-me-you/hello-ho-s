@@ -1,4 +1,2 @@
-# hello-ho-s
-hey ho's
-fvck y'all
-hp's
+# hello
+read-me file huh
