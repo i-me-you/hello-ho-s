@@ -18,15 +18,7 @@ __version__ = '0.0.1'
 __license__ = 'NONE use it however you see fit after all , you downloaded it so thank you'
 __author__ = 'Akujobi Clinton C         |i-me-you|'
 
-# Modules
-# ask manga name func
-# search manga func
-# search episode func
-# download func
- # classes
 
-# format to be used
-#mangadloader.dloadmanga(manganame, mangachapter)
 import requests, os
 from bs4 import BeautifulSoup
 
